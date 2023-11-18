@@ -1,1 +1,1 @@
-# Banco
+O projeto em Python que desenvolvi tem como principal objetivo simular as operações básicas de um banco, incorporando conceitos fundamentais de programação orientada a objetos. No decorrer do desenvolvimento, pude explorar diversos elementos, como classes, atributos, métodos, funções, encapsulamento, polimorfismo e o uso de construtores.
